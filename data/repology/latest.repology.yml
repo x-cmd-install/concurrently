@@ -1,0 +1,90 @@
+- repo: aur
+  srcname: concurrently
+  binname: concurrently
+  visiblename: concurrently
+  version: 10.0.5
+  origversion: 10.0.5-1
+  status: newest
+  summary: Run multiple commands concurrently
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: concurrently-bin
+  binname: concurrently-bin
+  visiblename: concurrently-bin
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: outdated
+  summary: Parallel Claude Code agent TUI — spawn multiple agents, chat with all of them at once
+  maintainers:
+    - brianmatzelle@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_05
+  srcname: concurrently
+  visiblename: concurrently
+  version: 8.2.2
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: concurrently
+  visiblename: concurrently
+  version: 8.2.2
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - j@cobi.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: concurrently
+  visiblename: concurrently
+  version: 8.2.2
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - j@cobi.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: concurrently
+  visiblename: concurrently
+  version: 8.2.2
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - j@cobi.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: concurrently
+  visiblename: concurrently
+  version: 9.2.1
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - j@cobi.dev
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: concurrently
+  visiblename: concurrently
+  version: 9.2.1
+  origversion: null
+  status: outdated
+  summary: Run commands concurrently
+  maintainers:
+    - j@cobi.dev
+  licenses:
+    - MIT
